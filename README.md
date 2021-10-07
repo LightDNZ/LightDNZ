@@ -5,7 +5,6 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/336817482541039628/895056213467856916/338224_VKCO4xTP.png">
 </div>
   
   ##
