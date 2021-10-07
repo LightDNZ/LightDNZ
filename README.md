@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @LightDNZ
-- 👀 I’m interested in make a Discord Music Bot
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on GengarMusic
-- 📫 How to reach me Discord > Askov'nag#2939
+## Olá! eu me chamo Angel Gabriel e sou estudante de programação!
+<div align="center">
+  <a href="https://github.com/kitsunebishi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LightDNZ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/336817482541039628/895056213467856916/338224_VKCO4xTP.png">
+</div>
+  
+  ##
+ 
+<div> 
+ <a href="https://discord.gg/CXTDs64Q6H" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
-<!---
-LightDNZ/LightDNZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ ![Snake animation](https://github.com/kitsunebishi/kitsunebishi/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
