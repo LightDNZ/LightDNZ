@@ -1,4 +1,4 @@
-## Olá! eu me chamo Light e sou estudante de programação!
+## Olá! eu me chamo Sahara e sou estudante de programação!
 <div align="center">
   <a href="https://github.com/LightDNZ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LightDNZ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
