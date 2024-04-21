@@ -1,17 +1,22 @@
-## Olá! eu me chamo Gabriel Souza e sou estudante de programação!
-<div align="center">
-  <a href="https://github.com/LightDNZ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LightDNZ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-<div style="display: inline_block"><br>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"/></code>
-</div>
-  
-  ##
- 
-<div> 
- <a href="https://discord.gg/gAMs8nXaET" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<div align="center"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9003FF&height=120&section=header"/>
 
- ![Snake animation](https://github.com/kitsunebishi/kitsunebishi/blob/output/github-contribution-grid-snake.svg)
- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto+italic&duration=4000&pause=1000&color=AE22F7&center=true&vCenter=true&width=435&lines=Hi+%2C+welcome+to+my+github+)](https://git.io/typing-svg)
+
+<div align="center">
+  <img src="https://media.tenor.com/gkyKEmCcyOYAAAAd/purple-anime.gif" alt="Hello world" align="center" width="200" height="200">
 </div>
+
+<strong><p>Me chamo Gabriel <strong></strong> tenho 16 anos. Tenho contato com programação desde meus 12 anos e me interesso pela area de Automação, Machine learning E Ai.
+ - Desenvolvo Bots e scripts de diversos tipos
+ - Sou Desenvolvedor Backend, utilizo python e c+ e tenho experiencia com TS, Next.js, React e PHP
+<div align='center'>
+<hr style="border: 1px solid black;">
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LightDNZ&show_icons=true&theme=midnight-purple)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LightDNZ&bg_color=050505&color=8000ff&line=780ae6&point=1dcd3b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center"> 
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9003FF&height=120&section=footer"/>
