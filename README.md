@@ -7,7 +7,6 @@
 </div>
 
 <strong><p>Me chamo Gabriel <strong></strong> tenho 16 anos. Tenho contato com programação desde meus 12 anos e me interesso pela area de Automação, Machine learning E Ai.
- - Desenvolvo Bots e scripts de diversos tipos
 <div align='center'>
 <hr style="border: 1px solid black;">
 
