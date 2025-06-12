@@ -20,4 +20,4 @@
 
 # ☎️ Contact
 
-You can reach me at [Discord](discord.com/users/952566840725479424)
+You can reach me at discord - 1palinopsia
