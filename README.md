@@ -1,20 +1,19 @@
-<div align="center"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9003FF&height=120&section=header"/>
+# 👋 Hi, I'm Gabriel!
+👩🏻‍💻 Systems Developer sharing about my journey and learnings in tech<br/>
+👩🏻‍🎓 Studying [System Development] at ETEC, Brazil<br/>
+💭 Currently learning about Cybersecurity and Containers!<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto+italic&duration=4000&pause=1000&color=AE22F7&center=true&vCenter=true&width=435&lines=Hi+%2C+welcome+to+my+github+)](https://git.io/typing-svg)
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=LightDNZ&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-<div align="center">
-  <img src="https://media.tenor.com/gkyKEmCcyOYAAAAd/purple-anime.gif" alt="Hello world" align="center" width="200" height="200">
-</div>
-
-<strong><p>Me chamo Gabriel <strong></strong> tenho 16 anos. Tenho contato com programação desde meus 12 anos e me interesso pela area de Automação, Machine learning E Ai.
-<div align='center'>
-<hr style="border: 1px solid black;">
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LightDNZ&show_icons=true&theme=midnight-purple)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LightDNZ&bg_color=050505&color=8000ff&line=780ae6&point=1dcd3b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center"> 
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9003FF&height=120&section=footer"/>
+# 💻 Tech Stack
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
