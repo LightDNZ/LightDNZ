@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gabriel!
 👩🏻‍💻 Systems Developer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studying [System Development](https://etecsp.cps.sp.gov.br/) at ETEC, Brazil<br/>
+👩🏻‍🎓 Studying [Systems Development](https://www.cps.sp.gov.br/cursos-etec/desenvolvimento-de-sistemas/) at ETEC, Brazil<br/>
 💭 Currently learning about Cybersecurity and Containers!<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
