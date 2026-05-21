@@ -18,4 +18,4 @@
 
 # ☎️ Contact
 
-You can reach me at discord - 1palinopsia
+You can reach me at discord - correntesdeanjo
