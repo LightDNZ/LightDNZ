@@ -12,11 +12,12 @@ size-adjust: 109%;
 .value {fill: #0a3069;}
 .addColor {fill: #1a7f37;}
 .delColor {fill: #cf222e;}
-.cc {fill: #c2cfde;}
+.cc {fill: #57606a;}
+.ascii {fill: #24292f; font-size: 10px;}
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii">
+<text x="15" y="30" class="ascii">
 <tspan x="15" y="30">                                                  </tspan>
 <tspan x="15" y="45">                   ###+########++--               </tspan>
 <tspan x="15" y="60">            ++#####################++++++--.      </tspan>
@@ -52,7 +53,7 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="510">........---------------------------------------   </tspan>
 </text>
 <text x="390" y="30" fill="#24292f">
-<tspan x="390" y="30">gabriel@barbosa</tspan> -———————————————————————————————————————————-—-
+<tspan x="390" y="30" fill="#953800">gabriel@barbosa</tspan> -———————————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 11, Linux, Android</tspan>
 <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">22 years, 5 months, 29 days</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">GitHub / AWS</tspan>

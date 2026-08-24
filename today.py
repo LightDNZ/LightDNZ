@@ -291,7 +291,7 @@ def perf_counter(funct, *args):
 if __name__ == '__main__':
     user_data, _ = perf_counter(user_getter, USER_NAME)
     OWNER_ID, _ = user_data
-    age_data = daily_readme(datetime.datetime(2008, 8, 8)) # Ajuste seu ano de nascimento aqui se quiser
+    age_data = daily_readme(datetime.datetime(2008, 8, 8)) 
     total_loc, _ = perf_counter(loc_query, ['OWNER', 'COLLABORATOR', 'ORGANIZATION_MEMBER'], 7)
     commit_data = commit_counter(7)
     star_data = graph_repos_stars('stars', ['OWNER'])

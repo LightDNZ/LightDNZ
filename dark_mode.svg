@@ -8,52 +8,62 @@ font-display: swap;
 -webkit-size-adjust: 109%;
 size-adjust: 109%;
 }
-.key {fill: #ffa657;}
-.value {fill: #a5d6ff;}
-.addColor {fill: #3fb950;}
+.key {fill: #ff7b72;}
+.value {fill: #79c0ff;}
+.addColor {fill: #56d364;}
 .delColor {fill: #f85149;}
-.cc {fill: #616e7f;}
+.cc {fill: #8b949e;}
+.ascii {fill: #c9d1d9; font-size: 10px;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="530px" fill="#161b22" rx="15"/>
-<text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">           g@M%@%%@N%Nw,,                   </tspan>
-<tspan x="15" y="50">        ,M*|`||*%gNM=]mM%g||%N,             </tspan>
-<tspan x="15" y="70">       p!``  '! |''` '''|||jhlj%w           </tspan>
-<tspan x="15" y="90">     ,@L `    ,,        ''!`|j%M]%M         </tspan>
-<tspan x="15" y="110">    ]j'` .,wp@pw,    `.     ''''|%Wg       </tspan>
-<tspan x="15" y="130">  /{||]@@@@@@@@@pp.             |||||      </tspan>
-<tspan x="15" y="150"> '` ']@@@@@@@@@@@@@@p     , ,'''` `        </tspan>
-<tspan x="15" y="170">  , :]%%@@@@@%%%%%%k%h '*||mkr     *       </tspan>
-<tspan x="15" y="190">  '  j%M`      |jkk'   ~nrn=|i    ;`       </tspan>
-<tspan x="15" y="210">   !  jrr*^`             `"!  L'':!   </tspan>
-<tspan x="15" y="230">    j  lp;,.  ,/ @@    ,;\nmy "  ,~   </tspan>
-<tspan x="15" y="250">   i r @@@@mmHM @@@@ `^****M*,p ;,         </tspan>
-<tspan x="15" y="270">   | ]@@@@HHH]g@M%%%%%H,jmgpmb%  j         </tspan>
-<tspan x="15" y="290">    ;;%%%%%k%@[,.n|;.;j%%k|%k%%',[         </tspan>
-<tspan x="15" y="310">     H|%%k%%%j%k||,;;j;!!'|%ij}]@          </tspan>
-<tspan x="15" y="330">     "djjmkL,"]][,,,,wwxw;|#kjk` </tspan>
-<tspan x="15" y="350">       %;%km%%%%M%M|%%jkkii|||[            </tspan>
-<tspan x="15" y="370">        kjj%%kkkl|!||||||j|||"        </tspan>
-<tspan x="15" y="390">         |jm%H@@@b%%kkmk%i|!,[             </tspan>
-<tspan x="15" y="410">         @p|j%%%%jkk|||j*'`;j[             </tspan>
-<tspan x="15" y="430">        ]@@@g|'''`'''  ` ,;j%k             </tspan>
-<tspan x="15" y="450">        @@@@@mgmp;,,,,:;jj%%k%             </tspan>
-<tspan x="15" y="470">       @@@@@@@@%%kgki!|jjjj%k%@ .          </tspan>
-<tspan x="15" y="490">. ^['' %@@@@HH%b%k{illljkjj%%%% ; `,.      </tspan>
-<tspan x="15" y="510">=[' ` . %HH%%%%%H@gkilljjj%kk%".   `'i</tspan>
+<rect width="985px" height="530px" fill="#0d1117" rx="15"/>
+<text x="15" y="30" class="ascii">
+<tspan x="15" y="30">                                                  </tspan>
+<tspan x="15" y="45">                   ###+########++--               </tspan>
+<tspan x="15" y="60">            ++#####################++++++--.      </tspan>
+<tspan x="15" y="75">      +++++#+#########################++#+---     </tspan>
+<tspan x="15" y="90">      +++###################+##########++#---     </tspan>
+<tspan x="15" y="105">      ++####################+#++###+######++-     </tspan>
+<tspan x="15" y="120">      ###########++#########++#############+++-   </tspan>
+<tspan x="15" y="135">     ############+--+##++++++--+#############+++  </tspan>
+<tspan x="15" y="150">     ##########+----------.-----+###+#######+#++  </tspan>
+<tspan x="15" y="165">   #########+++++++++-------------++++#####++#++  </tspan>
+<tspan x="15" y="180">     #######------++----------+++++++++########+  </tspan>
+<tspan x="15" y="195">     ######-----.-------------++++-++++#########  </tspan>
+<tspan x="15" y="210">     ######------+++--------+++--------######-..  </tspan>
+<tspan x="15" y="225">      ####+--+++++-----------++++------#####      </tspan>
+<tspan x="15" y="240">     ++#++----------------------+++#++-####       </tspan>
+<tspan x="15" y="255">     ++-----.......--------------------####       </tspan>
+<tspan x="15" y="270">     +----------...--------------------++##       </tspan>
+<tspan x="15" y="285">     ++----------.---+++++#+----------+++         </tspan>
+<tspan x="15" y="300">     ++-------------------++++--------+++         </tspan>
+<tspan x="15" y="315">     ++-----------+-+----+++----------++-         </tspan>
+<tspan x="15" y="330">     ++++----------------------------++--         </tspan>
+<tspan x="15" y="345">         ------------------+++-----+++---         </tspan>
+<tspan x="15" y="360">         +------------------------++++-           </tspan>
+<tspan x="15" y="375">         ++----------------------++++             </tspan>
+<tspan x="15" y="390">         ++----------..---------+++++             </tspan>
+<tspan x="15" y="405">         ++--------------------++++-              </tspan>
+<tspan x="15" y="420">         ++---+++------------++++++-              </tspan>
+<tspan x="15" y="435">         +-----++++++++++++++++++++--             </tspan>
+<tspan x="15" y="450">          ------++#########++++++----             </tspan>
+<tspan x="15" y="465">        ----------++++++++++++++-------           </tspan>
+<tspan x="15" y="480">    ---------------++++++++++++----------         </tspan>
+<tspan x="15" y="495">------.------------------+++++--------------      </tspan>
+<tspan x="15" y="510">........---------------------------------------   </tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
-<tspan x="390" y="30">gabriel@barbosa</tspan> -———————————————————————————————————————————-—-
+<tspan x="390" y="30" fill="#ff7b72">gabriel@barbosa</tspan> -———————————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 11, Linux, Android</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">18 years, 0 months, 15 days</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">22 years, 5 months, 29 days</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">GitHub / AWS</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Systems Development Student</tspan>
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VSCode</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Computer Science Student</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VSCode, IntelliJ IDEA</tspan>
 <tspan x="390" y="150" class="cc">. </tspan>
 <tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">PHP, TypeScript, JavaScript, Java</tspan>
-<tspan x="390" y="190" class="cc">. </t span><tspan class="key">Languages</t span>.<t spanclass "key">Computer</ t span>:< t spanclass "cc"> ......... </ t span>< t spanclass "value">
-
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">HTML, CSS, SQL, Docker, YAML</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Portuguese, English</tspan>
+<tspan x="390" y="230" class="cc">. </tspan>
 <tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Web Development, Linux, Homelab</tspan>
 <tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">PC Building, Networking</tspan>
 <tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
